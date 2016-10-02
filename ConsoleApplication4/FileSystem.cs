@@ -104,6 +104,7 @@ namespace OOFileSystem
             {
                 current.parent.children.Remove(current.Name);
                 newParent.children.Add(current.Name, current);
+                current.parent = newParent;
             }
         }
 

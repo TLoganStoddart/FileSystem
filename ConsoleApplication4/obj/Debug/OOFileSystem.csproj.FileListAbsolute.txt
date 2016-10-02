@@ -4,3 +4,6 @@
 \\chips.eng.utah.edu\home\tstoddar\.win_my_documents\visual studio 2015\Projects\FileSystem\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
 \\chips.eng.utah.edu\home\tstoddar\.win_my_documents\visual studio 2015\Projects\FileSystem\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
 \\chips.eng.utah.edu\home\tstoddar\.win_my_documents\Visual Studio 2015\Projects\FileSystem\ConsoleApplication4\obj\Debug\OOFileSystem.csprojResolveAssemblyReference.cache
+X:\.win_my_documents\Visual Studio 2015\Projects\FileSystem\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+X:\.win_my_documents\Visual Studio 2015\Projects\FileSystem\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+X:\.win_my_documents\Visual Studio 2015\Projects\FileSystem\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
